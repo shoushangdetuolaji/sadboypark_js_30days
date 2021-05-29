@@ -27,6 +27,7 @@
 - RegExp
 	- `match()`
 	- `replace()`
+  - `var regEx = new RegExp(regStr, "gi"); g表示global全局搜索、i表示忽略大小写`
 
 ## 过程指南
 
